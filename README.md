@@ -20,7 +20,7 @@ WHERE departamentos.departamento_nome = 'Vendas';
 
 ```sql
 INSERT INTO funcionarios (primeiro_nome, sobrenome, email, senha, telefone, data_contratacao, cargo_id, salario, departamento_id) 
-VALUES ('Gustavo', 'Gomes Portela', 'ggomesportela26@gmail.com', 'essaehumasenhaforte', '999999999', CURDATE(), 2, 5000.00, 3);
+VALUES ('Gustavo', 'Gomes Portela', 'ggomesportela26@gmail.com', 'essaehumasenhaforte', '999999999', CURDATE(), 9, 5000.00, 3);
 ```
 
 * Agora diga, quantos funcionários temos ao total na empresa?

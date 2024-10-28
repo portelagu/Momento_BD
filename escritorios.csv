@@ -1,0 +1,10 @@
+escritorio_id,escritorio_nome,endereco,cep,cidade,estado_provincia,pais_id
+1400,"Wayne escritorios","2014 Jabberwocky Rd",26192,Gotham,"New York",US
+1500,"Stark Tower","2011 Interiors Blvd",99236,"South San Francisco",California,US
+1700,"Sala Winter","2004 Charade Rd",98199,Seattle,Washington,US
+1800,"Arkham Base","147 Spadina Ave","M5V 2L7",Toronto,Ontario,CA
+1900,"House of Mystery escritorios","The Trickster Rd. 42",80925,Newcastle,"North East England",UK
+2400,"Shuri's Palace","8204 Arthur St",NULL,"Jabari Village","Birnin Zana",WA
+2500,"Umbrella Corp","Magdalen Centre, The Oxford Science Park","OX9 9ZB",Oxford,Oxford,UK
+2700,"Baxter Building","Excelsior Rd. 7031",00616,"London Below",Bavaria,DE
+3900,"Baxter Building","Excelsior Rd. 7031",00616,"London Below","London Above",UK

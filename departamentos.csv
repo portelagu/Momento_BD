@@ -1,0 +1,15 @@
+departamento_id,departamento_nome,escritorio_id
+1,Administração,1700
+2,Marketing,1800
+3,Suprimentos,1700
+4,"Recursos Humanos",2400
+5,Transportes,1500
+6,Tecnologia,1400
+7,"Relações Públicas",2700
+8,Vendas,2500
+9,Executivo,1700
+10,Finanças,1700
+11,Contabilidade,1700
+12,Biotecnologia,3900
+13,"Tecnologias Avançadas",1900
+15,Inovações,3900

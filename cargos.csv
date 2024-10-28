@@ -1,0 +1,22 @@
+cargo_id,cargo_nome,min_salario,max_salario
+1,"Junior Warehouse Assistant",4200.00,9000.00
+2,"Gerente de Contabilidade",8200.00,16000.00
+3,"Assistente Administrativo",3000.00,6000.00
+4,CEO,20000.00,40000.00
+5,"Diretor de Administração, Contabilidade e Recursos",15000.00,30000.00
+6,Contabilidade,4200.00,9000.00
+7,CFO,8200.00,16000.00
+8,"Assistente de Recursos",4000.00,9000.00
+9,"Web Developer",4000.00,10000.00
+10,CMO,9000.00,15000.00
+11,"Representante de Vendas para a América Latina",4000.00,9000.00
+12,"Relações Públicas",4500.00,10500.00
+13,"Purchasing Clerk",2500.00,5500.00
+14,"Gerente de Recursos",8000.00,15000.00
+15,"Gerente de Vendas",10000.00,20000.00
+16,"Representante de Vendas",6000.00,12000.00
+17,"Consultor de Vendas",2500.00,5500.00
+18,Estoquista,2000.00,5000.00
+19,"Gerente de Estoque",5500.00,8500.00
+20,Cientista,14200.00,35000.00
+21,"Assitente de Garantia de Qualidade",6200.00,12000.00
